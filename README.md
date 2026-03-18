@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’ve officially quit development and deleted my Discord. Everything on my GitHub is no longer supported. I may return in the future, but for now I’m focusing on bigger things.</p>
+<p align="left">I’ve officially quit development and deleted my Discord. Everything on my GitHub is no longer supported. I may return in the future, but for now I’m focusing on bigger things irl.</p>
 
 ###
 
