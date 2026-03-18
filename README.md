@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack Game Developer with a passion for coding in my free time, I currently make scripts for FiveM but am interested in expanding my market.</p>
+<p align="left">I’ve officially quit development and deleted my Discord. Everything on my GitHub is no longer supported. I may return in the future, but for now I’m focusing on bigger things.</p>
 
 ###
 
