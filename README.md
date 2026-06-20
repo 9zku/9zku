@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’ve officially quit development and deleted my Discord. Everything on my GitHub is no longer supported. I may return in the future, but for now I’m focusing on bigger things irl.</p>
+<p align="left">I'm a Full Stack Game Developer with a passion for coding in my free time, I currently make scripts for FiveM but am interested in expanding my market.</p>
 
 ###
 
@@ -39,12 +39,12 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@rkfrmda3" target="_blank">
+  <a href="https://www.youtube.com/@rk.dev3" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
   </a>
-  <!-- <a href="https://discord.gg/MAEVKFaE" target="_blank">
+  <a href="https://discord.com/invite/DgH3PxEZWG" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
-  </a> -->
+  </a>
 </div>
 
 ###
